@@ -8,6 +8,6 @@ O Freeway é um jogo inspirado no clássico da Atari, onde o jogador controla um
 
 Controle do personagem para atravessar a rua , Veículos com movimentação aleatória , Sistema de pontuação , Interface visual simples e divertida
 
-**Tecnologias Utilizadas
-**
+**Tecnologias Utilizadas**
+
 JavaScript , HTML , CSS
